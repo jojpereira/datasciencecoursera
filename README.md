@@ -1,4 +1,7 @@
-## This repository consists of works realted to **DataScience** conducted by coursera
+
+# This repository consists of works related to **DataScience** conducted by coursera
+
 * All programming assignments and course projects have been passed through all the test cases
 
-# Â© Karthick (karthyuom@gmail.com)
+© Karthick (karthyuom@gmail.com)
+
