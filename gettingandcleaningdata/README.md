@@ -3,7 +3,8 @@
 ### This consists of programming assignments related to **Getting and Cleaning Data conducted by Coursera**
 
 * <p> It contains samsung data, run_analysis.R script, and two output files named as full_tidy_data.txt and grouped_tidy_data  </p>
-<h{text-decoration: underline}>run_analysis.R</h> 
+<h>run_analysis.R</h> 
+<hr>--------------</hr>
 * This is the R script, responsible for loading training and testing data set from given samsung_data (see /samsung_data/README.md for understanding about the data set and additional materials)
 
 <hr>__________________________________________________</hr>
