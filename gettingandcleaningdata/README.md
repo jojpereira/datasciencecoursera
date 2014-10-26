@@ -2,7 +2,7 @@
 <hr>__________________________________________________</hr>
 ### This consists of programming assignments related to **Getting and Cleaning Data conducted by Coursera**
 
-* It contains samsung data, run_analysis.R script, and two output files named as full_tidy_data.txt and grouped_tidy_data
+* It contains samsung data, run_analysis.R script, and two output files named as full_tidy_data.txt and grouped_tidy_data.txt
 
 <h4> run_analysis.R </h4>
 
@@ -38,8 +38,8 @@
 * First column ("Group(Activity - Subject)") is listing all possible combination of Activity and Subject
  (e.g: LAYING_1 => Activity- "LAYING" and Subject- 1, 
        WALKING_DOWNSTAIRS_2 => Activity- "WALKING_DOWNSTAIRS" and Subject- 2)
-* Each row contains 68 values that belong to respective column names in order
-* ##### NOTE: This is the final tidy data that has been uploaded into coursera
+* Each row contains 68 values that belong to respective column names in the same order
+* ##### NOTE: This is the final tidy data that has been uploaded in coursera
 
 <hr>__________________________________________________</hr>
 <p> © Karthick (karthyuom@gmail.com) </p>
