@@ -91,8 +91,11 @@ prepareTidyData <- function(path){
         colnames(mean.data.grouped)[2:ncol(mean.data.grouped)] <- lapply(colnames(mean.data.grouped)[2:ncol(mean.data.grouped)], function(x) paste(x, "_Avg", sep = ""))
         #print(colnames(mean.data.grouped)[2:ncol(mean.data.grouped)])
         
+        #print the summary of first 6 rows
         print(head(mean.data.grouped))
-        print(nrow(mean.data.grouped))
+        
+        #total # rows
+        print(paste("Total records(rows): ",nrow(mean.data.grouped),sep=""))
         
         #save grouped tidy data set by average into local disk
         write.table(mean.data.grouped, file ="grouped_tidy_data.txt", quote = FALSE, row.names = FALSE)        
