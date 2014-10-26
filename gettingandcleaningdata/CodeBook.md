@@ -99,6 +99,7 @@
  (e.g: LAYING_1 => Activity- "LAYING" and Subject- 1, 
        WALKING_DOWNSTAIRS_2 => Activity- "WALKING_DOWNSTAIRS" and Subject- 2)
 * All other columns represent the each measurements by taking the average for each group mentioned above
+* All the variables can be decribed in the same manner as earlier in full_tidy_data.txt excpet these variables represent the mean
 * Column names have been appended by "Avg"
 * Each row contains 67 values that belong to respective column names in the same order
 

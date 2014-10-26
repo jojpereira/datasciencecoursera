@@ -94,7 +94,7 @@ prepareTidyData <- function(path){
         #print the summary of first 6 rows
         print(head(mean.data.grouped))
         
-        #total # rows
+        #total no of rows
         print(paste("Total records(rows): ",nrow(mean.data.grouped),sep=""))
         
         #save grouped tidy data set by average into local disk
