@@ -15,6 +15,7 @@
 * There are 68 columns together with activity label and subject
 * It will be generated once the run_analysis.R script is executed.
 * It consists of tidy data set in 10299 rows and 68 columns.
+* All the measurements related to accelaration are measured in unit 'g' and measurements related to gyroscope are measured in 'radians/second'
 * First row represents the column names starting from "Activity", "Subject" and so on
 * Each row contains 68 values that belong to respective column names in order 
 
