@@ -39,7 +39,8 @@
  (e.g: LAYING_1 => Activity- "LAYING" and Subject- 1, 
        WALKING_DOWNSTAIRS_2 => Activity- "WALKING_DOWNSTAIRS" and Subject- 2)
 * Each row contains 68 values that belong to respective column names in the same order
-* ##### NOTE: This is the final tidy data that has been uploaded in coursera
+ 
+##### NOTE: grouped_tidy_data.txt is the final tidy data that has been uploaded in coursera
 
 <hr>__________________________________________________</hr>
 <p> © Karthick (karthyuom@gmail.com) </p>

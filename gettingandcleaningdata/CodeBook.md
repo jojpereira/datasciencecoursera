@@ -100,7 +100,8 @@
 * All other columns represent the each measurements by taking the average for each group mentioned above
 * Column names have been appended by "Avg"
 * Each row contains 67 values that belong to respective column names in the same order
+
 ##### NOTE: grouped_tidy_data.txt is the final tidy data that has been uploaded in coursera
 
 <hr>__________________________________________________</hr>
-<p> ?? Karthick (karthyuom@gmail.com) </p>
+<p> © Karthick (karthyuom@gmail.com) </p>
